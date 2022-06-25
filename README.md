@@ -1,10 +1,31 @@
-# Svelte Kit Template
+<h1>Integrated Sensors Platform</h1>
+<h3>Streamlining Quantitative Physiological Data Collection and Analysis</h3>
+<div>Harry X. Li, Vincent Mancuso, Sarah McGuire</div>
+<br/>
+<div><i>Presented at <a href="https://2022.hci.international/" target="_blank">HCII 2022</a></i></div>
+</br>
 
-My own Svelte Kit template!
+https://harryli0088.github.io/integrated-sensors-platform/
 
-https://harryli0088.github.io/svelte-kit-template/
+[<img src="full_paper.png" height="30"/>](static/Integrated_Sensors_Platform.pdf)
+[<img src="full_presentation.png" height="30"/>](static/Integrated_Sensors_Platform_Presentation.pdf)
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
+![Screenshot](static/integrated-sensors-platform.png)
+
+<h2>Distribution Statement</h2>
+
+<p><b>DISTRIBUTION STATEMENT A. Approved for public release. Distribution is unlimited.</b></p>
+<p>
+  This material is based upon work supported by the Combatant Commands under Air Force Contract
+  No. FA8702-15-D-0001. Any opinions, findings, conclusions or recommendations expressed in this 
+  material are those of the author(s) and do not necessarily reflect the views of the Combatant Commands.
+
+  © 2022 Massachusetts Institute of Technology. Delivered to the U.S. Government with Unlimited 
+  Rights, as defined in DFARS Part 252.227-7013 or 7014 (Feb 2014). Notwithstanding any copyright
+  notice, U.S. Government rights in this work are defined by DFARS 252.227-7013 or DFARS
+  252.227-7014 as detailed above. Use of this work other than as specifically authorized by the U.S.
+  Government may violate any copyrights that exist in this work.
+</p>
 
 ## Creating a project
 
