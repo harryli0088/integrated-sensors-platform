@@ -15,7 +15,7 @@ const config = {
 			fallback: null
 		}),
     paths: {
-      base: process.env.NODE_ENV==="production" ? '/svelte-kit-template' : undefined, // TODO
+      base: process.env.NODE_ENV==="production" ? '/integrated-sensors-platform' : undefined,
     },
     // hydrate the <div id="svelte"> element in src/app.html
 		target: '#svelte'
