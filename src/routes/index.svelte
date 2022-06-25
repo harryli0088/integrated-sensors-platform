@@ -30,7 +30,7 @@
       </button>
     </Blanchor>
 
-    <Blanchor href="Integrated_Sensors_Platform_Presentation">
+    <Blanchor href="Integrated_Sensors_Platform_Presentation.pdf">
       <button style="background-color:#F39C12;outline: none;border: none;color:white">
         Presentation <Fa icon={faFilePdf}/>
       </button>
