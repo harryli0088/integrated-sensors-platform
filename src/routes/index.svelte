@@ -3,7 +3,7 @@
   import { faGithub } from '@fortawesome/free-brands-svg-icons'
 
   import Blanchor from '$lib/Blanchor.svelte';
-  import { faFilePdf } from '@fortawesome/free-solid-svg-icons'
+  import { faFilePdf, faChessKnight } from '@fortawesome/free-solid-svg-icons'
 </script>
 
 <main>
@@ -33,6 +33,12 @@
     <Blanchor href="Integrated_Sensors_Platform_Presentation.pdf">
       <button style="background-color:#F39C12;outline: none;border: none;color:white">
         Presentation <Fa icon={faFilePdf}/>
+      </button>
+    </Blanchor>
+
+    <Blanchor href="https://link.springer.com/chapter/10.1007/978-3-031-06086-1_5">
+      <button style="background-color:#3498DB;outline: none;border: none;color:white">
+        Springer Paper <Fa icon={faChessKnight}/>
       </button>
     </Blanchor>
 
